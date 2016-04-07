@@ -24,7 +24,8 @@
 
 		<!-- Load scripts -->
 		<script type="text/javascript" src="js/phrases.js"></script>
-		<!-- <script type="text/javascript" src="js/loadPercent.js"></script> -->
+
+		<!-- Show the user what percentage of files they have left to download -->
 		<script type="text/javascript">
 
 			var progressTextEnabled = true;
@@ -37,9 +38,9 @@
 			  total- Total number of files the client will have to download.
 			*/
 			function SetFilesTotal(total) {
-				if (total !== 0) {
-					totalFiles = total;
-					acquiredFiles = 0;
+				if (total > 0) {
+					totalFiles = total
+					acquiredFiles = 0
 				}
 			}
 
@@ -51,13 +52,16 @@
 			function SetFilesNeeded(needed) {
 			  	// Don't do anything if we don't want to show progress.
 				if (!progressTextEnabled) {
-					return;
+					return
 				}
 
-				acquiredFiles = totalFiles - needed;
-				var percentDone = (acquiredFiles / totalFiles) * 100;
+				// Generate a percentage of the files we still need to download
+				acquiredFiles = totalFiles - needed
+				var percentDone = (acquiredFiles / totalFiles) * 100
 				percentDone = Math.floor(percentDone)
-				$('#percentCompleted').text(percentDone.toString() + '%');
+
+				// Insert the new % into our h2
+				$('#percentCompleted').text(percentDone.toString() + '%')
 			}
 		</script>
 	</body>
