@@ -1,7 +1,4 @@
 {
-    // Make sure your additional phrases are numbered sequentially!
-    // Also, make sure there is a comma at the end of every line but the last.
-
     "0": "this is my first phrase.",
     "1": "this is my second phrase.",
     "2": "this is my third phrase.",
