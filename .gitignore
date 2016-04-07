@@ -1,0 +1,5 @@
+# Photoshop files
+*.psd
+
+# 3rd party libraries
+js/thirdparty

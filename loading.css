@@ -1,0 +1,63 @@
+body
+{
+	background-color: #E5E5E5;
+}
+
+h1
+{
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+}
+
+#container
+{
+	width: 100vw;
+	height: 100vh;
+}
+
+#loadImgBg
+{
+	position: fixed;
+	left: 50%;
+	margin-left: -100px;
+	top: 200px;
+	width: 200px;
+	height: 200px;
+
+	border-radius: 15%;
+}
+
+#loadImg
+{
+	border-radius: inherit;
+}
+
+#phrases
+{
+	position: absolute;
+	text-align: center;
+	width: 500px;
+	margin-left: -250px;
+	top: 410px;
+	left: 50%;
+}
+
+.spinner
+{
+	-webkit-animation: sk-rotateplane 4s infinite linear;
+}
+
+@-webkit-keyframes sk-rotateplane {
+	0% 
+	{
+		-webkit-transform: perspective(600px) rotateY(0deg); 
+	}
+	50%
+	{
+		-webkit-transform: perspective(600px) rotateY(360deg);
+	}
+	100%
+	{
+		-webkit-transform: perspective(600px) rotateY(720deg);
+	}
+}
