@@ -3,3 +3,9 @@
 
 # 3rd party libraries
 js/thirdparty
+
+# Ignore dev script 
+start.bat
+
+# Sublime Text files
+*.sublime-project

@@ -1,0 +1,916 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"compar",
+				"Comparator"
+			],
+			[
+				"firs",
+				"firstName"
+			],
+			[
+				"last",
+				"lastName"
+			],
+			[
+				"age",
+				"age"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"ViewModelF",
+				"ViewModelFOV	(weapon_bbq_pneumatic.lua)"
+			],
+			[
+				"Lag",
+				"LagCompensation"
+			],
+			[
+				"SetNextPr",
+				"SetNextPrimaryFire"
+			],
+			[
+				"lag",
+				"LagCompensation"
+			],
+			[
+				"GetAim",
+				"GetAimVector"
+			],
+			[
+				"GetShoot",
+				"GetShootPos"
+			],
+			[
+				"LagCo",
+				"LagCompensation"
+			],
+			[
+				"SetNexPri",
+				"SetNextPrimaryFire"
+			],
+			[
+				"Primary",
+				"PrimaryAttack"
+			],
+			[
+				"Q",
+				"QuadraticFunction"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"get",
+				"getRankBySuit"
+			],
+			[
+				"direc",
+				"directory"
+			],
+			[
+				"space",
+				"spaceengineers"
+			],
+			[
+				"arCon",
+				"arControlsDiv"
+			],
+			[
+				"getE",
+				"getElementsByTagName〔function〕"
+			],
+			[
+				"arContr",
+				"arControlsDivCSS"
+			],
+			[
+				"delaye",
+				"delayedReloadWindow"
+			],
+			[
+				"chec",
+				"checkVarIsLegal"
+			],
+			[
+				"auto",
+				"autoRafflingEnabled"
+			],
+			[
+				"au",
+				"autoRafflingEnabled"
+			],
+			[
+				"raffleBu",
+				"raffleButtonActive"
+			],
+			[
+				"check",
+				"checkbox	(options.html)"
+			],
+			[
+				"back",
+				"backgroundColor〔variable〕"
+			],
+			[
+				"raffleB",
+				"raffleButton"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"sp",
+				"sprite"
+			],
+			[
+				"spa",
+				"letter-spacing"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"sa",
+				"sans-serif"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"round",
+				"round2places"
+			],
+			[
+				"jump",
+				"jumpingTempY"
+			],
+			[
+				"jumpi",
+				"jumping"
+			],
+			[
+				"jumping",
+				"jumpingTempY"
+			],
+			[
+				"ju",
+				"jumpingTempY"
+			],
+			[
+				"plat",
+				"plat_grass	(preloader.js)"
+			],
+			[
+				"proto",
+				"prototype	(preloader.js)"
+			],
+			[
+				"PLUGI",
+				"PLUGIN_AUTHOR"
+			],
+			[
+				"sm_",
+				"sm_fakevac_showversion"
+			],
+			[
+				"Plugin",
+				"Plugin_Handled"
+			],
+			[
+				"sm_fakeva",
+				"sm_fakevac_version"
+			],
+			[
+				"see",
+				"selection"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"randomize",
+				"randomizeArray"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fo",
+				"form	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "loading.html",
+			"settings":
+			{
+				"buffer_size": 1741,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"commit",
+				"Git: Quick Commit"
+			],
+			[
+				"add",
+				"Git: Quick Add"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git add ",
+				"Git: Add Remote"
+			],
+			[
+				"git quick",
+				"Git: Quick Add"
+			],
+			[
+				"makrdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git init",
+				"Git: Init"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"",
+				"Git: Add Current File"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"leg",
+				"Legit: Sync"
+			],
+			[
+				"sync",
+				"Legit: Sync"
+			],
+			[
+				"quick co",
+				"Git: Quick Commit"
+			],
+			[
+				"quicka ",
+				"Git: Quick Add"
+			],
+			[
+				"sy",
+				"Legit: Sync"
+			],
+			[
+				"com",
+				"Git: Quick Commit"
+			],
+			[
+				"comm",
+				"Git: Quick Commit"
+			],
+			[
+				"qui",
+				"Git: Quick Add"
+			],
+			[
+				"quick ad",
+				"Git: Quick Add"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"add ",
+				"Git: Add Current File"
+			],
+			[
+				"legit",
+				"Legit: Sync"
+			],
+			[
+				"quick a",
+				"Git: Quick Add"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"legit sy",
+				"Legit: Sync"
+			],
+			[
+				"git commit",
+				"Git: Quick Commit"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"sourcepa",
+				"Set Syntax: SourcePawn"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"legit sync",
+				"Legit: Sync"
+			],
+			[
+				"git comm",
+				"Git: Quick Commit"
+			],
+			[
+				"packa rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"git sync",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"git com	",
+				"Git: Commit"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git push tags",
+				"Git: Push Tags"
+			],
+			[
+				"git tag",
+				"Git: New Tag"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"package con",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"clear",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Users/Ralph/Servers/ttt/_loadingscreen"
+	],
+	"file_history":
+	[
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/ttt_lykrast_weapons/lua/weapons/weapon_ap_hbadger.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/ttt_lykrast_weapons/lua/weapons/weapon_rp_railgun.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/ttt_lykrast_weapons/lua/weapons/weapon_hp_ares_shrike.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/ttt_lykrast_weapons/lua/weapons/weapon_ap_tec9.lua",
+		"/D/Users/Ralph/Documents/AP CS/Ch 14/AgeComparator.java",
+		"/D/Users/Ralph/Documents/AP CS/Ch 14/TestPerson.java",
+		"/D/Users/Ralph/Documents/AP CS/Ch 14/Person.java",
+		"/D/Users/Ralph/Downloads/gmad/lykrast_ttt_weapons/gamemodes/terrortown/entities/weapons/weapon_sp_winchester.lua",
+		"/D/Users/Ralph/Downloads/gmad/lykrast_ttt_weapons/gamemodes/terrortown/entities/weapons/weapon_sp_striker.lua",
+		"/D/Users/Ralph/Downloads/gmad/lykrast_ttt_weapons/gamemodes/terrortown/entities/weapons/weapon_sp_dbarrel.lua",
+		"/D/Users/Ralph/Downloads/gmad/lykrast_ttt_weapons/gamemodes/terrortown/entities/weapons/weapon_rp_railgun.lua",
+		"/D/Users/Ralph/Downloads/gmad/lykrast_ttt_weapons/gamemodes/terrortown/entities/weapons/weapon_rp_pocket.lua",
+		"/D/Users/Ralph/Downloads/gmad/lykrast_ttt_weapons/gamemodes/terrortown/entities/weapons/weapon_pp_remington.lua",
+		"/D/Users/Ralph/Downloads/gmad/lykrast_ttt_weapons/gamemodes/terrortown/entities/weapons/weapon_pp_rbull.lua",
+		"/D/Users/Ralph/Downloads/gmad/lykrast_ttt_weapons/gamemodes/terrortown/entities/weapons/weapon_hp_glauncher.lua",
+		"/D/Users/Ralph/Downloads/gmad/lykrast_ttt_weapons/gamemodes/terrortown/entities/weapons/weapon_hp_ares_shrike.lua",
+		"/D/Users/Ralph/Downloads/gmad/lykrast_ttt_weapons/gamemodes/terrortown/entities/weapons/weapon_ap_vector.lua",
+		"/D/Users/Ralph/Downloads/gmad/lykrast_ttt_weapons/gamemodes/terrortown/entities/weapons/weapon_ap_tec9.lua",
+		"/D/Users/Ralph/Downloads/gmad/lykrast_ttt_weapons/gamemodes/terrortown/entities/weapons/weapon_ap_pp19.lua",
+		"/D/Users/Ralph/Downloads/gmad/lykrast_ttt_weapons/gamemodes/terrortown/entities/weapons/weapon_ap_mrca1.lua",
+		"/D/Users/Ralph/Downloads/gmad/lykrast_ttt_weapons/gamemodes/terrortown/entities/weapons/weapon_ap_hbadger.lua",
+		"/D/Users/Ralph/Downloads/gmad/lykrast_ttt_weapons/gamemodes/terrortown/entities/weapons/weapon_ap_golddragon.lua",
+		"/D/Users/Ralph/Downloads/gmad/lykrast_ttt_weapons/lua/autorun/server/lykrast_weaponcollection.lua",
+		"/D/Users/Ralph/Servers/ttt/_loadingscreen/loading.html",
+		"/D/Users/Ralph/Servers/ttt/start.bat",
+		"/D/Users/Ralph/Servers/ttt/_loadingscreen/start.bat",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/html/loading.html",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/cfg/server.cfg",
+		"/D/Users/Ralph/Servers/ttt/_loadingscreen/loading.css",
+		"/D/Users/Ralph/Servers/ttt/_loadingscreen/js/loadPercent.js",
+		"/D/Users/Ralph/Servers/ttt/_loadingscreen/phrases.json",
+		"/D/Users/Ralph/Servers/ttt/_loadingscreen/js/phrases.js",
+		"/D/Users/Ralph/Servers/ttt/_loadingscreen/README.md",
+		"/D/Users/Ralph/Servers/ttt/_loadingscreen/.gitignore",
+		"/D/Users/Ralph/Servers/ttt/_loadingscreen/js/loadingscreen.js",
+		"/D/Users/Ralph/Servers/ttt/_loadingscreen/LICENSE.md",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/html/loading.css",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/ttt_bbq_weapons/lua/weapons/weapon_bbq_pneumatic.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/ttt_bbq_weapons/lua/weapons/weapon_bbq_airhorn.lua",
+		"/D/Users/Ralph/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/garrysmod.ver",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/ttt_zedtime/materials/zedtime/slowmotion_icon.vtf",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/ttt_weapon_collection/materials/vgui/ttt/icon_ak47.vmt",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/ttt_zedtime/materials/zedtime/slowmotion_icon.vmt",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/zedtime/lua/autorun/sh_slowmotion.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/zedtime/lua/autorun/client/cl_slowmotion.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/zedtime/lua/autorun/server/sv_slowmotion.lua",
+		"/D/Users/Ralph/Servers/ttt/_sourcersc/sourcersc.ini",
+		"/D/Users/Ralph/Servers/ttt/_sourcersc/gmod.rsc",
+		"/D/Users/Ralph/Servers/ttt/_sourcersc/default.exc",
+		"/D/Users/Ralph/Servers/ttt/_sourcersc/sourcersc.exc",
+		"/D/Users/Ralph/Servers/ttt/_sourcersc/SourceRSC.pdb",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/pointshop/addon.txt",
+		"/D/Users/Ralph/Downloads/gmad/zedtime/addon.json",
+		"/D/Users/Ralph/Downloads/gmad/zedtime/addon.txt",
+		"/D/Users/Ralph/Downloads/gmad/ttt_weapon_collection/addon.json",
+		"/D/Users/Ralph/Downloads/gmad/ttt_weapon_collection/addon.txt",
+		"/D/Users/Ralph/Downloads/gmad/zedtime/lua/autorun/server/sv_slowmotion.lua",
+		"/D/Users/Ralph/Downloads/gmad/zedtime/lua/autorun/client/cl_slowmotion.lua",
+		"/D/Users/Ralph/Downloads/gmad/zedtime/lua/autorun/sh_slowmotion.lua",
+		"/D/Users/Ralph/Documents/AP CS/Ch 14/QuadraticFunction.java",
+		"/D/Users/Ralph/Downloads/gmad/zedtime/materials/slowmotion_icon.vmt",
+		"/D/Users/Ralph/Documents/AP CS/Ch 14/QuadTest.java",
+		"/D/Users/Ralph/Downloads/gmad/addon.txt",
+		"/D/Users/Ralph/Documents/AP CS/Ch 14/Card.java",
+		"/D/Users/Ralph/.bash_aliases",
+		"/D/Users/Ralph/Documents/AP CS/Ch 14/TestCard.java",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/pointshop/lua/pointshop/items/playermodels/kleiner.lua",
+		"/D/Users/Ralph/Documents/AP CS/Ch 14/TestCard",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/pLogs/lua/plogs_cfg.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/pointshop/lua/pointshop/items/weapons/__category.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/pointshop/lua/pointshop/items/powerups/__category.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/pointshop/lua/pointshop/items/accessories/__category.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/pointshop/lua/pointshop/sh_config.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/pointshop/lua/pointshop/sh_init.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/pointshop/lua/pointshop/cl_player_extension.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/pointshop/lua/pointshop/sh_player_extension.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/pointshop/lua/pointshop/cl_init.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/pointshop/lua/pointshop/sv_init.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/pointshop/lua/pointshop/sv_manifest.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/data/ulib/groups.txt",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/pointshop/lua/pointshop/sv_player_extension.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/ttt_spectator_deathmatch/lua/specdm_config.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/bbq_airhorn/lua/weapons/weapon_bbq_airhorn.lua",
+		"/D/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/ahud-master/resource/ui/basechat.res",
+		"/D/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/ahud-master/resource/ui/hudaccountpanel.res",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/cfg/ttt.cfg",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/lua/autorun/server/workshop.lua",
+		"/D/Program Files (x86)/Steam/steamapps/common/GarrysMod/garrysmod/lua/menu/menu.lua",
+		"/D/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/custom/ahud-master/customization/chat - bottom right/resource/ui/basechat.res",
+		"/D/Program Files (x86)/Steam/steamapps/common/GarrysMod/garrysmod/lua/menu/nomusic.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/bbq_smash/lua/weapons/weapon_bbq_smash.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/ttt_spectator_deathmatch/lua/autorun/client/ttt_spec_dm_autorun.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/ttt_spectator_deathmatch/lua/cl_quakesounds.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/gamemodes/terrortown/entities/entities/ttt_knife_proj.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/gamemodes/terrortown/entities/weapons/weapon_ttt_knife.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/data/mapvote/config.txt",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/cfg/mount.cfg",
+		"/D/Users/Ralph/Servers/gmod/garrysmod/cfg/mount.cfg",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/data/ulx/votemaps.txt",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/data/ulx/config.txt",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/data/ulx/downloads.txt",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/data/ulx/gimps.txt",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/data/ulx/motd.txt",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/data/ulx/banreasons.txt",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/data/ulx/banmessage.txt",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/data/ulx/adverts.txt",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/data/ulib/users.txt",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/memento-hud/lua/memento-hud/client/cl_hud.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/memento-hud/lua/memento-hud/client/2_cl_overwrite.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/memento-hud/lua/memento-hud/client/0_cl_memento.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/addons/memento-hud/lua/memento-hud/client/1_cl_config.lua",
+		"/D/Users/Ralph/Servers/ttt/garrysmod/cfg/autoexec.cfg",
+		"/D/Users/Ralph/Servers/gmod/garrysmod/cfg/server.cfg",
+		"/D/Users/Ralph/Servers/gmod/garrysmod/cfg/autoexec.cfg",
+		"/D/Users/Ralph/Servers/update ttt.bat",
+		"/D/Program Files (x86)/Steam/steamapps/common/GarrysMod/garrysmod/cfg/maxframes.cfg",
+		"/D/Users/Ralph/Servers/update gmod.bat",
+		"/D/Users/Ralph/Servers/update css.bat",
+		"/D/Program Files (x86)/Steam/steamapps/common/GarrysMod/garrysmod/cfg/autoexec.cfg",
+		"/D/Program Files (x86)/Steam/steamapps/common/GarrysMod/garrysmod/cfg/maxquality.cfg",
+		"/D/Users/Ralph/Documents/web/crackem.top/team/calvin/index.html",
+		"/D/Program Files (x86)/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/cfg/autoexec.cfg",
+		"/D/Users/Ralph/Documents/web/crackem.top/team/calvin/css/index.css",
+		"/D/Users/Ralph/Documents/web/crackem.top/team/calvin/css/neon.css",
+		"/D/Users/Ralph/Documents/web/crackem.top/team/calvin/css/3d.css",
+		"/D/Users/Ralph/Downloads/Add_Take_Ownership_to_context_menu.reg",
+		"/D/Users/Ralph/Documents/web/crackem.top/index.html"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"     ",
+			"  ",
+			"            =",
+			"TRAIT",
+			"   ",
+			"trait",
+			"git",
+			"\\",
+			"\"3\"",
+			"	",
+			"detec",
+			"votemap",
+			"flashl",
+			"  ",
+			" \\)",
+			"\\( ",
+			"\\n",
+			"\\.gma",
+			".*/ds_",
+			"steamcmd",
+			"enabled",
+			"        ",
+			"\\n\\n",
+			"pageError",
+			"argument",
+			"  ",
+			"wget",
+			";\\n",
+			";",
+			";\\n",
+			";",
+			";\\n",
+			";",
+			"Phaser.Physics.Nin",
+			"\\n",
+			"\\(",
+			"//",
+			"^\\.",
+			".*:",
+			"1",
+			";\\n",
+			";",
+			"^[.*]{0,128}",
+			"^.*{1,128}$",
+			"/^[a-zA-Z]{1,128}$/",
+			"^.{129,300}$",
+			"^([0-9]|[0-9][0-9])\\. ",
+			"\\n\\n",
+			"^[a-zA-Z].*",
+			"todo",
+			"^ ",
+			"^say",
+			"\\\"",
+			".*\\\" \\\"",
+			"output ",
+			"jewbind",
+			"h",
+			"arrow",
+			"aeolus-sprite",
+			"  .* //.*",
+			"5",
+			"25",
+			"1",
+			"2",
+			"8",
+			"1",
+			"0",
+			"1",
+			"         -",
+			"1",
+			"0"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"    ",
+			"/",
+			"    ",
+			"",
+			")",
+			"(",
+			"\\nhttp://steamcommunity.com/sharedfiles/filedetails/?id=",
+			"",
+			"\\t",
+			"\\n",
+			"    ",
+			"wget --no-verbose",
+			";",
+			";\\n",
+			";",
+			";\\n",
+			";",
+			";\\n",
+			"')\\n",
+			"('",
+			"/",
+			"this.load.image(img/",
+			"",
+			";",
+			";\\n",
+			"",
+			"\\n",
+			"",
+			"engiebind",
+			"J",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "loading.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1741,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 134.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 134.0
+	},
+	"output.git-commit":
+	{
+		"height": 134.0
+	},
+	"output.git-init":
+	{
+		"height": 128.0
+	},
+	"output.git-pull":
+	{
+		"height": 134.0
+	},
+	"output.git-push":
+	{
+		"height": 134.0
+	},
+	"output.legit-sync":
+	{
+		"height": 134.0
+	},
+	"pinned_build_system": "",
+	"project": "loadingscreen.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 258.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

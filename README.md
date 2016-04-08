@@ -4,7 +4,7 @@
 
 I got tired of all these "welcome to my server, here's a thousand things to read" loading screens, so I created a minimal screen for my server.
 
-This doesn't have all the bells and whistles of "you're on your way to <host>, playing <map>!" with music playing in the background. It's just a spinner and some text that changes. Very reminicent of GMod 10's default loading screen.
+This doesn't have all the bells and whistles of "you're on your way to \<host\>, playing \<map\>!" with music playing in the background. It's just a spinner and some text that changes. Very reminicent of GMod 10's default loading screen.
 
 ## Installation
 
