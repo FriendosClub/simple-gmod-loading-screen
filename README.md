@@ -12,7 +12,7 @@ This doesn't have all the bells and whistles of "you're on your way to \<host\>,
 2. [Download jQuery 2.x][1]
 3. Rename `jquery-2.x.x.min.js` to `jquery.js`
 4. Place `jquery.js` in the `js/thirdparty` folder
-5. Edit phrases.json to include all the phrases you'd like to display to your user
+5. Edit `phrases.json` to include all the phrases you'd like to display to your user
 6. In you server's `server.cfg`, modify `sv_loadingurl` to point to this page.
 
 ## Reference
