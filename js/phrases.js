@@ -50,7 +50,7 @@ function getRandomPhrase () {
     // Check to see if we have already used the phrase
     // There's no "else" case, because we should just keep going if we already
     // used the phrase we found
-    if (!usedPhrases.includes(index)) {
+    if (usedPhrases.indexOf(index) === -1) {
       usedPhrases.push(index)
       return phrases[index]
     }
