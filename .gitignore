@@ -9,3 +9,4 @@ start.bat
 
 # Sublime Text files
 *.sublime-project
+*.sublime-workspace
