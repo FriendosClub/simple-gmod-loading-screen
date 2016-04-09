@@ -4,11 +4,11 @@
 var totalFiles = 1046
 var dlDelay = 10
 
-SetFilesTotal(totalFiles)
+window.SetFilesTotal(totalFiles)
 
 function UpdateDLCount (numDownloaded) {
   if (numDownloaded <= totalFiles) {
-    SetFilesNeeded(totalFiles - numDownloaded)
+    window.SetFilesNeeded(totalFiles - numDownloaded)
     window.setTimeout(function () { UpdateDLCount(numDownloaded + 1) }, dlDelay)
   }
 }
